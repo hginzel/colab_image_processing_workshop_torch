@@ -29,10 +29,9 @@ setup(
     scripts=[],
     setup_requires=['pytest-runner'],
     install_requires=[
-        'jupyter==1.0.0',
         'ipywidgets==7.4.2',
-        'torch==1.0.1.post2',
-        'torchvision==0.2.2.post3',
+        'torch==1.3.0+cu100',
+        'torchvision==0.4.1+cu100',
         'matplotlib==3.0.3',
         'seaborn==0.9.0',
         'tqdm==4.31.1',
