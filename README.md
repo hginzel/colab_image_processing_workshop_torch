@@ -1,11 +1,13 @@
 ## Image Processing Workshop
 
 ### How to run Workshop
+ - Setup Google account
+ - Copy notebooks folder to your Google Drive
 
 ### Materials
-Workshop presentation available [online](https://docs.google.com/presentation/d/13NA9wlVpNyRfTS0WKgEFWHBXWKFEDTXJCuOo9e23-LY/edit?usp=sharing).  
-QA @ [mlcollege slack #image-processing](https://mlcollege.slack.com/messages/C9629K188/)  
-My public list of news from ML: [Research Monthly](https://docs.google.com/document/d/1Gq1peza9okW0XxszS7nMKSUvk68rxNfiWhDmZHLV0dU/edit?usp=sharing)
+ - Workshop presentation available [online](https://drive.google.com/file/d/1tUmJvegTDKIfLfXObJlEEV1lNE1XAY7t/view?usp=sharing).  
+ - QA @ [mlcollege slack #image-processing](https://mlcollege.slack.com/messages/C9629K188/)  
+ - My public list of news from ML: [Research Monthly](https://docs.google.com/document/d/1Gq1peza9okW0XxszS7nMKSUvk68rxNfiWhDmZHLV0dU/edit?usp=sharing)
 
 #### Blogs
  - [Andej Karpathy](http://karpathy.github.io/) Nice intuitions, hands on posts, great for beginners.
