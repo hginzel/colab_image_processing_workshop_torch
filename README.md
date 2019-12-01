@@ -1,8 +1,9 @@
 ## Image Processing Workshop
 
 ### How to run Workshop
- - Setup Google account
- - Copy notebooks folder to your Google Drive
+ - Setup Google account.
+ - Copy notebooks folder to your Google Drive.
+ - Create `ml_college_data` folder in `My Drive` workspace.
 
 ### Materials
  - Workshop presentation available [online](https://drive.google.com/file/d/1tUmJvegTDKIfLfXObJlEEV1lNE1XAY7t/view?usp=sharing).  
