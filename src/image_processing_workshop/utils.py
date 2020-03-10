@@ -50,7 +50,7 @@ def apply_patch(img, patch, pos_w=0, pos_h=0):
     if pos_h + patch.shape[0] >= img.shape[0]:
         pos_h = img.shape[0] - patch.shape[0]
 
-    patch_ids = np.where(patch > 0)
+    patch_ids = np.where(patch != (255, 255, 255))
     img_ids = (patch_ids[0]+pos_h, patch_ids[1]+pos_w, patch_ids[2])
 
     corrupted_img = img.copy()
