@@ -35,8 +35,8 @@ setup(
         'matplotlib==3.0.3',
         'seaborn==0.9.0',
         'tqdm==4.31.1',
-        'tensorflow==1.13.1',
-        'tensorboard==1.13.1',
+        'tensorflow==1.15.0',
+        'tb-nightly==1.15.0a20190911',
         'requests==2.21.0'
     ],
     tests_require=['pytest'],
