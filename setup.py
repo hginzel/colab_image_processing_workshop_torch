@@ -35,7 +35,7 @@ setup(
         'matplotlib==3.0.3',
         'seaborn==0.9.0',
         'tqdm==4.31.1',
-        'tensorflow==1.14.0',
+        'tensorflow==1.15.2',
         'requests==2.21.0',
         'pillow==6.2.2'
     ],
